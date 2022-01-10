@@ -1,2 +1,3 @@
-# android-rev1.console.database
-https://status.io/pages/incident/53fcfbb2ac0c957972000235/5e751828f8d13904b21674be
+# android-rev1.console.database.java.runtime.name:Android Runtime 
+# Dalvik/2.1.0 (Linux; U; Android 9; CPH2083 Build/PPR1.180610.011)
+'Android Runtime
